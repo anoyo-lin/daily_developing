@@ -58,7 +58,8 @@
     * another one is for cellphone wireless charging.
 ## secondart seat
 - under glove box.
-    * only one is used for cellphone fast charging
+    * only one is used for cellphone fast charging.
+    * another one can use as rear seat light power source.
 
 # cellphone rack
 - hard attached at the dashboard with 2 screws
