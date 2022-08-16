@@ -38,7 +38,7 @@
 - rubber grommet retrofitting from front doors. destination is at rear glass
 - 720p AHD camera to record the video from 4 directions (LF, LR, RF, RR)
 - put the cameras  in the side-rear-glass.
-- 3.5 inch tianma/LQ035 LCD and logic board of MT630A
+- 3.5 inch tianma/innolux LQ035 LCD and logic board of MT630A
 - recorder band is LianZhi, used HaiSi Huawei as SOC
 
 # front parking support camera
